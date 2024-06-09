@@ -43,7 +43,8 @@ npm start
 ```
 
 2. Open your browser and navigate to http://localhost:3000. The application should be up and running.
-#Project Structure
+   
+## Project Structure
 
 ```bash
 personal-bookshelf/
