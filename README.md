@@ -29,17 +29,20 @@ Install dependencies:
 
 Make sure you have Node.js installed. Then, install the project dependencies using npm or yarn:
 Install dependencies:
+```bash
 npm install
 
 Running the Application
 To run the application on your local machine:
 
 1. Start the development server
+```bash
 npm start
 
 2. Open your browser and navigate to http://localhost:3000. The application should be up and running.
 #Project Structure
 
+```bash
 personal-bookshelf/
 ├── public/
 │   ├── index.html
