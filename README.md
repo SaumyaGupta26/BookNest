@@ -24,6 +24,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/BookNest.git
    cd personal-bookshelf
+   ```
    
 Install dependencies:
 
@@ -31,6 +32,7 @@ Make sure you have Node.js installed. Then, install the project dependencies usi
 Install dependencies:
 ```bash
 npm install
+```
 
 Running the Application
 To run the application on your local machine:
@@ -38,6 +40,7 @@ To run the application on your local machine:
 1. Start the development server
 ```bash
 npm start
+```
 
 2. Open your browser and navigate to http://localhost:3000. The application should be up and running.
 #Project Structure
@@ -64,3 +67,4 @@ personal-bookshelf/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
